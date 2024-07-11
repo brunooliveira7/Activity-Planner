@@ -35,8 +35,6 @@ let atividades = [
   },
 ];
 
-// atividades = []
-
 // arrow function
 const criarItemDeAtividade = (atividade) => {
   let input = `
@@ -57,21 +55,16 @@ const criarItemDeAtividade = (atividade) => {
   return `
     <div class="card-bg">
       ${input}
-
       <div>
         <img class="active" src="./assets/circle-check.svg" alt="">
         <img class="inactive" src="./assets/circle-dashed.svg" alt="">
-
         <span>${atividade.nome}</span>
       </div>
-      
-
       <time class="short">
         ${formatar.dia.semana.curto}.
         ${formatar.dia.numerico} <br>
         ${formatar.hora}
       </time>
-      
       <time class="full">
       ${formatar.dia.semana.longo}, 
       dia ${formatar.dia.numerico}
