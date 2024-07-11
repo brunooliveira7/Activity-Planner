@@ -16,22 +16,22 @@ const formatador = (data) => {
 // object {}
 const atividade = {
   nome: "Almoço",
-  data: new Date("2024-07-08 10:00"),
-  finalizada: true,
+  data: new Date("2024-07-17 11:30"),
+  finalizada: false,
 };
 
 // lista, array, vetor []
 let atividades = [
   atividade,
   {
-    nome: "Academia em grupo",
-    data: new Date("2024-07-09 12:00"),
+    nome: "Passeio no Parque do Sabiá",
+    data: new Date("2024-07-17 16:00"),
     finalizada: false,
   },
   {
-    nome: "Gamming session",
-    data: new Date("2024-07-09 16:00"),
-    finalizada: true,
+    nome: "Jantar na churrascaria rodízio",
+    data: new Date("2024-07-17 20:00"),
+    finalizada: false,
   },
 ];
 
@@ -120,11 +120,11 @@ const salvarAtividade = (event) => {
 
 const criarDiasSelecao = () => {
   const dias = [
-    "2024-02-28",
-    "2024-02-29",
-    "2024-03-01",
-    "2024-03-02",
-    "2024-03-03",
+    "2024-07-17",
+    "2024-07-18",
+    "2024-07-19",
+    "2024-07-20",
+    "2024-07-21",
   ];
 
   let diasSelecao = "";
