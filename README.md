@@ -1,7 +1,7 @@
 <h1 align="center"> Activity Planner </h1>
 
 <p align="center">
-Activity Planner é planejador e organizador de atividades, que para auxiliar as pessoas durante suas viagens. Site disponível em: https://brunooliveira7.github.io/Activity-Planner/
+Activity Planner é planejador e organizador de atividades que pode auxiliar pessoas durante suas viagens. Site disponível em: https://brunooliveira7.github.io/Activity-Planner/
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Activity Planner é um agregador na organização pessoal, e roteirização de viagens.
+O Activity Planner é um agregador na organização pessoal e roteirização de viagens.
 
 ## 🔖 Layout
 
