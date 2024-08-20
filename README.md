@@ -12,7 +12,7 @@ Activity Planner é planejador e organizador de atividades que pode auxiliar pes
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/brunooliveira7/Activity-Planner/blob/main/assets/Layout%20Activity%20Planner.png">
+  <img alt="License" src="https://github.com/brunooliveira7/Activity-Planner/blob/main/assets/Layout%20Activity-Planner.png">
 </p>
 
 <br>
